@@ -1,0 +1,23 @@
+CONCEITOS
+
+* CLASSES
+* OBJETOS
+* HERANÇA
+* POLIMORFISMO
+
+
+CLASSE é a descrição de um grupo de objetos. objeto é a instancia da classe.
+'
+* Nome da clase
+* Conjunto de atributos - descrição
+* Conjunto de métodos - comportamento
+
+HERANÇA permite reutilização da estrutura e do comportamento de uma clase
+
+POLIMORFISMO habilidade de variáveis terem mais de um tipo
+
+
+PACOTES JAVA
+
+* Forma de organizar suas classes
+* Convenção: dominio + projeto + pasta ex: com.max.cursojava.aula9 > pastas dentro de pastas

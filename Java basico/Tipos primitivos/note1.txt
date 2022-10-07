@@ -1,0 +1,14 @@
+Float e double 
+
+no dia-a-dia usamos mais o double
+
+Números com casa decimal
+
+float saldo1 = 100.30f; (sempre com f no final)
+double saldo2 = 100.30;
+
+Char = letra
+
+
+Char o = 'o';
+Char i = 'i'

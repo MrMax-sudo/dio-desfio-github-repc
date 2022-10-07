@@ -1,0 +1,14 @@
+CONCEITOS
+
+* CLASSES
+* OBJETOS
+* HERANÇA
+* POLIMORFISMO
+
+
+CLASSE é a descrição de um grupo de objetos. objeto é a instancia da classe.
+
+* Nome da clase
+* Conjunto de atributos - descrição
+* Conjunto de métodos - comportamento
+

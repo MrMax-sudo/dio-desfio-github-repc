@@ -1,0 +1,14 @@
+Variável
+
+* <tipo> <nome da variavel>;
+
+* <tipo> <nome da varial> = <valor>;
+
+= é atribuição
+
+
+CONVENÇÃO DE NOMENCLATURA (REGRAS)
+
+* a-z A-z_&
+*a-z A-z_&0-9
+*Case Sensitive (CamelCase) 
